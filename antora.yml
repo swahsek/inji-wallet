@@ -1,0 +1,10 @@
+name: inji-a
+title: Inji A
+version: 1.4.0
+start_page: readme.md
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- nav.adoc
