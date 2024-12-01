@@ -1,1 +1,1 @@
-* xref:README.md
+* xref:README.adoc
