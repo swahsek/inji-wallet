@@ -1,10 +1,10 @@
-name: inji-a
-title: Inji A
-version: 1.4.0
+name: inji-wallet
+title: Inji Wallet
+version: main
 start_page: README.md
 asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
 nav:
-- nav.md
+- nav.adoc
