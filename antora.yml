@@ -1,7 +1,7 @@
 name: inji-wallet
 title: Inji Wallet
 version: main
-start_page: README.adoc
+start_page: README.md
 asciidoc:
   attributes:
     source-language: asciidoc@
