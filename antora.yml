@@ -1,6 +1,6 @@
 name: inji-wallet
 title: Inji Wallet
-version: 1.4.0
+version: main
 start_page: README.adoc
 asciidoc:
   attributes:
