@@ -6,4 +6,5 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
-nav: nav.adoc
+nav: 
+  - nav.adoc
