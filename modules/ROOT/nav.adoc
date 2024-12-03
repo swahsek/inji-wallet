@@ -1,5 +1,2 @@
 * xref:index.adoc[]
 * xref:topic1.adoc[]
-* Lists
-** xref:lists/ordered-list.adoc[]
-** xref:lists/unordered-list.adoc[]
