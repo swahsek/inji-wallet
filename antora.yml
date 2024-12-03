@@ -1,10 +1,10 @@
 name: inji-wallet
 title: Inji Wallet
-version: main
+version: 1.4.0
 start_page: README.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
 nav: 
-  - /ROOT/nav.adoc
+  - modules/ROOT/nav.adoc
